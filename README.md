@@ -1,6 +1,6 @@
 # 💬 LiveChatX
 
-Deploy Link : https://livechatx.onrender.com/
+Deploy Link : https://livechatx-8x31.onrender.com
 
 A **real-time chat application** built with the **MERN Stack + Socket.IO**, offering seamless 1-on-1 and group messaging, typing indicators, user authentication, and an elegant UI.
 ---
@@ -78,7 +78,7 @@ LiveChatX/
 
 - **Clone the repo**
    ```bash
-   git clone https://github.com/Shivam12221831/LiveChatX.git
+   git clone https://github.com/PuneetKumar03/LiveChatX.git
 Setup Environment Variables
 Create a .env in /server folders.
 
@@ -97,7 +97,7 @@ cd frontend && npm start
 
 Main Folder(LiveChatX) -> .env
 
-PORT=5000
+PORT=5001
 
 MONGO_URI=your_mongodb_url
 
@@ -119,13 +119,12 @@ Live typing indicator via socket events
 
 ## 🙋‍♂️ Author
 
-Shivam Singh
+Puneet Kumar
 
 🧑‍💻 Full Stack Developer | B.Tech CSE
 
-📫 Connect on LinkedIn - www.linkedin.com/in/shivam-singh-s05
+📫 Connect on LinkedIn - https://www.linkedin.com/in/puneet-kumar-55b2362ba/
 
-🌐 Portfolio - https://portfolio-shivam12221831s-projects.vercel.app/
 
 
 ## 
